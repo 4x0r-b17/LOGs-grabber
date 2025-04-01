@@ -1,0 +1,4 @@
+booking.com
+airbnb.com
+expedia.com
+trivago.it
